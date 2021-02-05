@@ -1,0 +1,19 @@
+  
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2FCD99",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 39.36592116,
+    "ref_longitude": 22.92372610,
+    "ref_altitude": 23,
+    "contact_email": "p.tzimotoudis@gmail.com",
+    "description": "NITOS LoRawWAN Gateway"
+  }
+}
